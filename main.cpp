@@ -7,7 +7,6 @@ INPUT input = { 0 };
 DWORD edi_value = 0;
 
 __declspec(naked) void codecave() {
-
 	__asm {
 		call ori_call_address
 		pushad
