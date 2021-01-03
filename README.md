@@ -1,4 +1,4 @@
-# AssaultCube Triggerbot
+# Assault Cube Triggerbot
 A triggerbot for Assault Cube that fires the player's weapon whenever the crosshair goes over another player.
 
 ![Triggerbot](https://github.com/GameHackingAcademy/AssaultCube_Triggerbot/blob/master/cube.gif?raw=true)
